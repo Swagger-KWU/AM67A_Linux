@@ -1,2 +1,2 @@
-aarch64-linux-gnu-gcc -o grey img.c -lm
+aarch64-linux-gnu-gcc -o gray img.c -lm
 

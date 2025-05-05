@@ -1,0 +1,1 @@
+aarch64-linux-gnu-gcc -o test_shrmem shrmem.c
